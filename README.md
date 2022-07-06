@@ -1,2 +1,2 @@
 # ip_list
-small python code to get all ips of hosts that are connected connected to your router. run it as root
+small python code to get all ips of hosts that are connected to your router. run it as root
